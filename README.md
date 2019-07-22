@@ -2,7 +2,10 @@
 
 Definitely for advanced users.
 
+FIXME: Bravado aside, how about a README that tells someone new (let's suppose an advanced user) WHAT YOU DO!?!
+
 ***
+
 
 Keep Github issues for actual bugs. User support is [/r/uMatrix](https://www.reddit.com/r/uMatrix/).
 
